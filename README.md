@@ -1,6 +1,6 @@
 Hi, I’m TJ also known as Tony.
 
-I currently work as a Math Teacher, though I spent time as an English teacher, particularly for native Spanish/Castellano learners and I like to use a lot of Python and HTML for preparing my lesson materials. 
+I currently work as a math teacher, though I spent time as an English teacher, particularly for native Spanish/Castellano learners and I like to use a lot of Python and HTML for preparing my lesson materials. 
 
 Most of my educational materials can be found at my github pages site [TonyTerrasa.github.io](TonyTerrasa.github.io). However, you can also find a lot of activities in a (currently not-running) CATSOOP site tj001.space ([repo here](https://github.com/TonyTerrasa/tj.001)).
 
